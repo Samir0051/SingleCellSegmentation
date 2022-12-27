@@ -1,8 +1,8 @@
 # SingleCellSegmentation
-# Created By:
-# Samir Sanchez 
-# Sofia Garcia  
-# Karolina Majewska 
+Created By:
+Samir Sanchez Tejada
+Sofia Garcia  
+Karolina Majewska 
 
 Used a U-Net model to train a neural network (that is constructed using a training loop) that is then tested against a testing set sample.
 In addition the optimizer function uses the ADAM algorithm and the loss function uses binary-cross entropy. 50 epochs were trained in total 
